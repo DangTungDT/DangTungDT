@@ -1,5 +1,5 @@
 # WELCOME TO MY PAGE 👋👋👋
-<br><br>My name is Tung Dang. I am a Fresher .NET Engineer. I am passionate about software development and currently focusing on the following topics: Backend Development with .NET Core & ASP.NET Core, Database Management & Optimization, Software Architecture & Clean Code.
+My name is Tung Dang. I am a Fresher .NET Engineer. I am passionate about software development and currently focusing on the following topics: Backend Development with .NET Core & ASP.NET Core, Database Management & Optimization, Software Architecture & Clean Code.
 
 
 ## 🌐 Socials:
