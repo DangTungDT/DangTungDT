@@ -1,3 +1,6 @@
+# WELCOME TO MY PAGE 👋👋👋
+<br><br>My name is Tung Dang. I am a Fresher .NET Engineer. I am passionate about software development and currently focusing on the following topics: Backend Development with .NET Core & ASP.NET Core, Database Management & Optimization, Software Architecture & Clean Code.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/angtung.878061/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/t%C3%B9ng-%C4%91%E1%BA%B7ng-594a91415/) 
